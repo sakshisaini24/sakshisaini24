@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi Saini</h1>
-<h3 align="center">A 2nd year Computer Science Engineering Student figuring out the world of Technology</h3>
+<h3 align="center">A 3rd year Computer Science Engineering Student figuring out the world of Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshisaini24&label=Profile%20views&color=0e75b6&style=flat" alt="sakshisaini24" /> </p>
 
